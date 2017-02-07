@@ -1,2 +1,5 @@
 This is a text file
+
+Welcome, test subject, it's Cave. Prime. From Earth One. I am speaking to you from across time and space! I am literally in the future! I am--Hold on... [off mic] What? [on mic] Alright, my assistant Greg tells me none of that's true. Got excited. You are the first test subject we have ever sent into a parallel universe, which apparently has nothing to do with time travel. Still exciting. Anyway, you should be seeing a test chamber in front of you. We designed it, those backwater universe yokels built it, and you're gonna test it. Remember: You gotta let us know if it WORKS or not, otherwise you're wasting everybody's time on two earths. Alright, get to it.
+
 This is another line in the same file
